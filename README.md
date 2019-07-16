@@ -26,7 +26,12 @@
 
 - 视频课程
 
-1. 《基于TypeScript从零重构axios》
+1. 《基于 TypeScript 从零重构 axios》
+2. 《Vue 核心技术 Vue + Vue-Router + Vuex + SSR 实战精讲》
+3. 《Vue2.0 开发企业级移动端音乐 App》
+4. 《前端跳槽面试必备技巧》
+5. 《Web App 用组件开发全站》
+6. 《6小时 jQuery 开发一个前端应用》
 
 - 专栏
 
