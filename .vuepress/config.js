@@ -1,6 +1,6 @@
 module.exports = {
-  title: '前端知识体系搭建',
-  description: 'web前端，跨终端，小程序，node，devops',
+  title: 'learning-resource',
+  description: '个人学习资源整理',
   head: [
     ['link', { rel: 'shortcut icon', href: '/favicon.ico'}]
   ],
