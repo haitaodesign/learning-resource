@@ -8,6 +8,7 @@
 4. 不断的反思与总结
 5. 提高学习效率
 6. 合理的安排学习时间
+7. 系统的构建知识体系
 
 ![个人学习资源整理](http://assets.processon.com/chart_image/5d2c77c8e4b02015bd7d93f6.png)
 
