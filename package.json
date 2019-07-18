@@ -1,7 +1,7 @@
 {
   "name": "learning-resource",
   "version": "1.0.0",
-  "description": "此仓库建立的目的：",
+  "description": "个人学习资源整理",
   "main": "index.js",
   "directories": {
     "doc": "docs"
