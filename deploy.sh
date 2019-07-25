@@ -11,6 +11,9 @@ yarn
 
 yarn build
 
+git config --local user.name "haitaodesign"
+git config --local user.email "15393243613@163.com"
+
 git add .
 
 git commit -m 'release: github pages'
