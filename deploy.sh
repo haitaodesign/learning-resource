@@ -13,8 +13,6 @@ git config --local user.name "haitaodesign"
 
 git config --local user.email "15393243613@163.com"
 
-git checkout -b dev
-
 git checkout master
 
 git merge dev
