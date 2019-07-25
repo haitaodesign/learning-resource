@@ -4,12 +4,7 @@ node_js:
 install:
 - yarn
 script:
-- yarn build
-- git add .
-- git commit -m 'release:github pages'
-- git config --local user.name "haitaodesign"
-- git config --local user.email "15393243613@163.com"
-- git push -f https://${GITHUB_TOKEN}@github.com/haitaodesign/learning-resource.git master
+- ./deploy.sh
 branches:
   only:
   - master
