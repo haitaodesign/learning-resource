@@ -1,11 +1,11 @@
 language: node_js
 sudo: required
 node_js:
-- '10'
+  - '10'
 install:
-- yarn
+  - yarn
 script:
-- ./deploy.sh
+  - ./deploy.sh
 branches:
   only:
   - master
