@@ -13,6 +13,13 @@ git config --local user.name "haitaodesign"
 
 git config --local user.email "15393243613@163.com"
 
+# 新建临时分支
+git checkout -b temp
+
+git checkout dev
+
+git merge temp
+
 git checkout master
 
 git merge dev
