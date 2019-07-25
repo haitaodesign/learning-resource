@@ -20,7 +20,7 @@ git checkout dev
 
 git merge temp
 
-git checkout master
+git checkout -b master
 
 git merge dev
 
