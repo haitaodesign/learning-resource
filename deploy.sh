@@ -7,14 +7,15 @@ git clone https://${GITHUB_TOKEN}@github.com/haitaodesign/learning-resource.git
 
 cd learning-resource
 
+git config --local user.name "haitaodesign"
+
+git config --local user.email "15393243613@163.com"
+
+git merge origin/dev
+
 yarn
 
-git merge dev
-
 yarn build
-
-git config --local user.name "haitaodesign"
-git config --local user.email "15393243613@163.com"
 
 git add .
 
