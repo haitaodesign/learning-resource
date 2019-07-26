@@ -9,6 +9,8 @@ cd learning-resource
 
 yarn
 
+git merge dev
+
 yarn build
 
 git config --local user.name "haitaodesign"
