@@ -18,4 +18,4 @@ git add .
 
 git commit -m 'release: github pages'
 
-git push https://${GITHUB_TOKEN}@github.com/haitaodesign/learning-resource.git master
+git push -f https://${GITHUB_TOKEN}@github.com/haitaodesign/learning-resource.git master
